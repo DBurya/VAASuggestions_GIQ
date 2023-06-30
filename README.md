@@ -7,4 +7,4 @@ Contents:
 1. The "Code" folder contains the source code of the proposed system.
 
 Note:
-Data can be found at
+Datasets can be found at
